@@ -1,0 +1,17 @@
+{
+    "attributes":[
+    {"trait_type":"Tier","value":"25001"},
+    {"trait_type":"Song","value":"Punjab Toa"},
+    {"display_type":"number","trait_type":"Token Number","value":1},
+    {"trait_type":"Artist","value":"Nikk"},
+    {"trait_type":"Royalty Share","value":"~0.005%"},
+    {"trait_type":"Total Royalty Share","value":"~10%"},
+    {"trait_type":"Song Launch Date","value":"17-04-2023"},
+    {"collection_name":"fantiger-punjab-toa"}
+    ],
+    "description":"'Punjab Toa' by Nikk is a fun romantic song with a catchy beat that is perfect for parties and dances. The track is infused with the vibrant energy of Punjab, and its lively tempo and upbeat lyrics are sure to get people on the dance floor. If you're looking for a feel-good song that will get everyone in the party mood, 'Punjab Toa' is definitely worth a listen.",
+    "external_url":"https://fantiger.com/watch/punjab-toa-nikk-sarah-khatri-rox-a-nikk-new-s-ZKPRfg",
+    "image":"https://songtiger-assets.s3.ap-south-1.amazonaws.com/meta-data/punjab-toa/silver/1.png",
+    "name":"Punjab Toa from Nikk on FanTiger",
+    "id":25001
+}

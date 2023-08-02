@@ -1,0 +1,17 @@
+{
+    "attributes":[
+    {"trait_type":"Tier","value":"28001"},
+    {"trait_type":"Song","value":"Keh Do"},
+    {"display_type":"number","trait_type":"Token Number","value":1},
+    {"trait_type":"Artist","value":"Marshall Sehgal"},
+    {"trait_type":"Royalty Share","value":"~0.0036%"},
+    {"trait_type":"Total Royalty Share","value":"~20%"},
+    {"trait_type":"Song Launch Date","value":"26-06-2023"},
+    {"collection_name":"fantiger-keh-do"}
+    ],
+    "description":"'Keh Do' by Marshall Sehgal featuring Sara Gurpal is a poignant ballad that intertwines melancholy and triumph. As Marshall reflects on a lost love, his newfound artistic achievements provide solace and bittersweet nostalgia, creating a heartfelt blend of sadness and growth.",
+    "external_url":"https://fantv.in/watch/keh-do-marshallsehgalmusic-saragurpal-fantige-hvkb03",
+    "image":"https://songtiger-assets.s3.ap-south-1.amazonaws.com/meta-data/keh-do/silver/1.png",
+    "name":"#1 Keh Do from Marshall Sehgal on FanTiger",
+    "id": 28001
+}

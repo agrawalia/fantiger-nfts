@@ -1,0 +1,17 @@
+{
+    "attributes":[
+    {"trait_type":"Tier","value":"26001"},
+    {"trait_type":"Song","value":"Bhailu Na Hamro"},
+    {"display_type":"number","trait_type":"Token Number","value":1},
+    {"trait_type":"Artist","value":"Pramod Premi"},
+    {"trait_type":"Royalty Share","value":"~0.0250%"},
+    {"trait_type":"Total Royalty Share","value":"~50%"},
+    {"trait_type":"Song Launch Date","value":"19-04-2023"},
+    {"collection_name":"fantiger-bhailu-na-hamro"}
+    ],
+    "description":"[1/2000] 'Bhailu Na Hamro' is a quirky and fun song that is sure to get anyone in a party mood. The track is perfect for those who are young at heart and looking for a good time with friends. With its catchy beats and playful lyrics, 'Bhailu Na Hamro' is a must-have on any party playlist.",
+    "external_url":"https://fantv.in/watch/video-pramod_premi-bhailu-na-hamro-new-song-2-WqGcej",
+    "image":"https://songtiger-assets.s3.ap-south-1.amazonaws.com/meta-data/bhailu-na-hamro/silver/1.png",
+    "name":"#1 Bhailu Na Hamro from Pramod Premi on FanTiger",
+    "id": 26001
+}
